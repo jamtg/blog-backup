@@ -90,6 +90,6 @@ baidusitemap:
             path: baidusitemap.xml
 backup:
     type: git
-    repository: git@github.com:jamtg/blog-backup.git
-       github:git@github.com:jamtg/blog-backup.git
-       gitcafe:git@github.com:jamtg/blog-backup.git
+    repository:
+       github: git@github.com:jamtg/blog-backup.git
+       gitcafe: git@github.com:jamtg/blog-backup.git
